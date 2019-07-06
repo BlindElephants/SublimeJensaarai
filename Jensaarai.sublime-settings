@@ -26,8 +26,8 @@
         $shell -i -l $ghci -XOverloadedstring -ghci-script $packages/SublimeJensaarai/BootTidal.hs
     */
     "terminus_tidal": false,
-    "shell": "zsh",
-    "ghci": "/Users/lawsos2/.ghcup/bin/ghci",
+    "shell": "bash",
+    "ghci": "ghci",
 
     /*
         Websocket connection webviewer in
